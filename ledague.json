@@ -1,5 +1,7 @@
 {
     "schemaVersion": 1,
     "label": "League Of Legends",
-    "namedLogo": "Riot Games"
+    "namedLogo": "Riot Games",
+    "message": " ",
+    "color": "yellow"
 }
